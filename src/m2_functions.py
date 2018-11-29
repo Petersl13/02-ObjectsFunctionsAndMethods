@@ -23,6 +23,7 @@ import rosegraphics as rg
 def main():
     print(right_triangle(3,4))
     turtles('red',2)
+    turtles('magenta',6)
     """
     TESTS the functions that you will write below.
     You write the tests per the _TODO_s below.
